@@ -2,14 +2,14 @@
 <div align="center">
   <img border-radius: 15px src="https://pin.it/vQEfnoh" width="170" height="170"/>
   <p align="center">
-<a href="#"><img title="LiyaMol" src="https://img.shields.io/badge/LiyaMol-pink?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="madrox" src="https://img.shields.io/badge/madrox-pink?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/saidalisaid2"><img title="Author" src="https://img.shields.io/badge/Author-saidali/LiyaMol?color=black&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Althafw"><img title="Author" src="https://img.shields.io/badge/Author-saidali/madrox?color=black&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/saidalisaid2">saidali</a> to make it public
+Project created by <a href="https://github.com/Althafw">saidali</a> to make it public
     <br>
        | © |
         Reserved |
@@ -19,8 +19,8 @@ Project created by <a href="https://github.com/saidalisaid2">saidali</a> to make
 ----
 
   <p align="center">
-  <a href="https://github.com/saidalisaid2/LiyaMol">
-    <img src="https://img.shields.io/github/repo-size/saidalisaid2/LiyaMol?color=green&label=Repo%20total%20size&style=italic">
+  <a href="https://github.com/Althafw/madrox">
+    <img src="https://img.shields.io/github/repo-size/Althafw/madrox?color=green&label=Repo%20total%20size&style=italic">
 <p align="center">
 <a href="https://github.com/afnanplk/followers"><img title="Followers" src="https://img.shields.io/github/followers/afnanplk?color=red&style=flat-circle"></a>
 <a href="https://github.com/afnanplk/lastpink/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/afnanplk/lastpink?color=red&style=flat-square"></a>
@@ -36,7 +36,7 @@ Project created by <a href="https://github.com/saidalisaid2">saidali</a> to make
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@afnanplk/PinkyMwol-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/saidalisaid2/LiyaMol)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Althafw/madrox)
      </div>
 <br>
 <br >
@@ -67,9 +67,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![saidali](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) |  [![Alien-Alfa](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
+  [![saidali](https://github.com/Althafw.png?size=100)](https://github.com/Althafw) |  [![Alien-Alfa](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
 ----|----|----
-[Saidali](https://github.com/farhan-dqz)  | [Alien-Alfa](https://github.com/saidalisaid2) | [afnanplk](https://github.com/afnanplk)
+[Saidali](https://github.com/farhan-dqz)  | [Alien-Alfa](https://github.com/Althafw) | [afnanplk](https://github.com/afnanplk)
 Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
   </div>
 
@@ -78,4 +78,4 @@ Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
 This project is protected by `GNU General Public Licence v3.0` license.
 
 ### Disclaimer
-`WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
+`WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademar
